@@ -18,6 +18,10 @@ My goal is to become an experienced web-developer and also thrive in other IT fi
 
 * Some understanding of native Js
 
+### Experience :
+
+None
+
 ### Education :
 
 * Georgian Technical University
@@ -26,4 +30,4 @@ My goal is to become an experienced web-developer and also thrive in other IT fi
 
 ### English :
 
-* Proficient English User
+Proficient English User
